@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "model": "Meteor 350",
+        "price": 23990
+    },
+    {
+        "id": 2,
+        "model": "Classic 350",
+        "price": 22490
+    },
+    {
+        "id": 3,
+        "model": "Hunter 350",
+        "price": 19990
+    }
+]
