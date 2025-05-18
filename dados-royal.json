@@ -1,17 +1,83 @@
 [
-    {
-        "id": 1,
-        "model": "Meteor 350",
-        "price": 23990
-    },
-    {
-        "id": 2,
-        "model": "Classic 350",
-        "price": 22490
-    },
-    {
-        "id": 3,
-        "model": "Hunter 350",
-        "price": 19990
-    }
+  {
+    "id": 1,
+    "name": "Meteor 350",
+    "price": 23790,
+    "description": "A nova Meteor 350 representa a pura e eterna essência do motociclismo e do espírito cruiser. Ela possui um design clássico com linhas atemporais e está pronta para as estradas e as desafiadoras ruas da cidade.",
+    "image_one_link": "https://i.postimg.cc/NFkTZjfQ/Meteor350.png",
+    "image_two_link": "https://i.postimg.cc/3wWcJcmz/Meteor-350.png",
+    "image_three_link": "https://i.postimg.cc/KYv32YLY/meteor-350.png"
+  },
+  {
+    "id": 2,
+    "name": "Classic 350",
+    "price": 22890,
+    "description": "A nova Classic 350 continua a incorporar as tradições e heranças do passado à medida que renasce. Inspirada no modelo G2 do pós-guerra, nascida na década de 1950, a nova Classic 350 continua a ser um testemunho do design atemporal que levou o mundo do motociclismo de volta aos tempos áureos do motociclismo britânico. Seu tanque de combustível, o distinto som do motor e o farol Casquette característico se harmonizam, contemplando a obra-prima que é a atemporal Royal Enfield Classic.",
+    "image_one_link": "https://i.postimg.cc/k52QDCwy/Classic350.png",
+    "image_two_link": "https://i.postimg.cc/mZ9KHJJs/Classic-350.png",
+    "image_three_link": "https://i.postimg.cc/28hZdMrC/classic-350.png"
+  },
+  {
+    "id": 3,
+    "name": "Hunter 350",
+    "price": 19990,
+    "description": "A nova Hunter 350 chegou para dar um novo rumo às ruas da cidade. Sua nova ergonomia, ângulo de inclinação reformulado e baixo centro de gravidade foram projetados para uma pilotagem sem esforços pela cena urbana. A resposta intuitiva do acelerador garante agilidade sem precedentes.",
+    "image_one_link": "https://i.postimg.cc/TPBrDs4v/Hunter350.png",
+    "image_two_link": "https://i.postimg.cc/zXSMdWq2/Hunter-350.png",
+    "image_three_link": "https://i.postimg.cc/6pKGMcpn/dapper-grey.png"
+  },
+  {
+    "id": 4,
+    "name": "Scram 411",
+    "price": 24490,
+    "description": "A motocicleta ideal para fluir em todos os lugares que vocês forem. Disposta a te acompanhar em todos os obstáculos possíveis. Uma motocicleta para quem não tem medo de viver intensamente.",
+    "image_one_link": "https://i.postimg.cc/Prd1YY2J/Scram411.png",
+    "image_two_link": "https://i.postimg.cc/N0VPykxF/Scram-411.png",
+    "image_three_link": "https://i.postimg.cc/zftbX1SF/scram-411.png"
+  },
+  {
+    "id": 5,
+    "name": "Himalayam 450",
+    "price": 26290,
+    "description": "Nova Himalayan 450. A nova Himalayan é uma moto de aventura que mantém a essência do puro motociclismo, oferecendo capacidade, versatilidade e confiabilidade para qualquer terreno. Com rodas de 21 na dianteira e 17 na traseira, pedaleiras estilo enduro e um guidão largo, garante controle e conforto tanto na estrada quanto off-road. Seu motor SHERPA de 40cv proporciona torque para enfrentar altitudes extremas sem perder o prazer da viagem. Além disso, traz o inovador painel TRIPPER DASH com nave",
+    "image_one_link": "https://i.postimg.cc/xjvKXtGB/Himalayam450.png",
+    "image_two_link": "https://i.postimg.cc/CLVXHJpf/Himalayam-450.png",
+    "image_three_link": "https://i.postimg.cc/y8T3tRD5/himalyam-450.webp"
+  },
+  {
+    "id": 6,
+    "name": "Interceptor 650",
+    "price": 30990,
+    "description": "A Interceptor 650 Blacked Out apresenta um motor e escapamento em preto fosco que unem a estética da motocicleta fundindo-se perfeitamente com seu chassi, mantendo os holofotes no tanque para um visual que certamente fará corações dispararem e olhares se voltarem à você.",
+    "image_one_link": "https://i.postimg.cc/hvBTCdnC/Interceptor.png",
+    "image_two_link": "https://i.postimg.cc/kgTHCm6x/Interceptor-650.png",
+    "image_three_link": "https://i.postimg.cc/W3dDdf5L/moto-cali-green.png"
+  },
+  {
+    "id": 7,
+    "name": "Continental GT",
+    "price": 32990,
+    "description": "Com tanque esculpido, atitude provocante e posição de pilotagem elegante, a nova versão da Continental GT 650 Blacked Out carrega todas as características de uma café racer tradicional, tornando-a perfeita para percorrer estradas ou se divertir na cidade.",
+    "image_one_link": "https://i.postimg.cc/Hx5b4tqc/Continental-GT.png",
+    "image_two_link": "https://i.postimg.cc/HkYNFxxY/Continental-GT.png",
+    "image_three_link": "https://i.postimg.cc/c1V3n0qD/continental-GT.png"
+  },
+  {
+    "id": 8,
+    "name": "Shotgun 650",
+    "price": 33990,
+    "description": "A Royal Enfield Shotgun 650 é uma motocicleta versátil e inovadora, com um design modular que permite a configuração entre assento único, duplo ou tourer com bagageiro. Inspirada na cultura da personalização, suas quatro cores exclusivas incentivam a autoexpressão. Ergonomicamente otimizada, oferece conforto e controle com uma posição intuitiva de pilotagem, suspensão ajustada e pneus largos, garantindo estabilidade em diferentes tipos de terreno.",
+    "image_one_link": "https://i.postimg.cc/FsG3ZzBZ/Shotgun.png",
+    "image_two_link": "https://i.postimg.cc/63vbC4H0/Shotgun-650.png",
+    "image_three_link": "https://i.postimg.cc/HxFrX4NJ/SG650-White-Side-1440x880.png"
+  },
+  {
+    "id": 9,
+    "name": "Super Meteor 650",
+    "price": 34990,
+    "description": "Seis décadas do DNA Cruiser. A Super Meteor 650 foi construída com base em nosso princípio que as pessoas e as viagens não podem ser limitadas a horas ou quilômetros",
+    "image_one_link": "https://i.postimg.cc/7Z67QDvy/Super-Meteor.png",
+    "image_two_link": "https://i.postimg.cc/FzXWpF8Q/Super-Meteor.png",
+    "image_three_link": "https://i.postimg.cc/NGyTFLn9/celestial-red-000.webp"
+  }
 ]
